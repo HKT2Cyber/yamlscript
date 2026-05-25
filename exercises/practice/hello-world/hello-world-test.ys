@@ -5,7 +5,7 @@ load: 'hello-world.ys'
 
 test::
 - name: Say Hi!
-  code: hello()
+  code: Hello, World!
   want: Hello, World!
 
 done: 1
